@@ -1,7 +1,7 @@
 Agenda del congreso
 ===================
 Dia 1
-08:00 Regsitro
+08:00 Registro
 09:00 Inauguracion
 10:30 Taller de Git
 12:00 Comida
