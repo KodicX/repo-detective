@@ -5,3 +5,6 @@ Dia 1
 09:00 Inauguracion
 10:30 Taller de Git
 12:00 Comida
+Dia 2
+09:00 Conferencia magistral
+11:00 Mesa de proyectos
